@@ -94,6 +94,11 @@ async function login(payload) {
 
 I encountered a few issues during implementation, such as incorrect payloads and wrong API endpoints, which required multiple debugging steps. After fixing the issues with request format and endpoint handling, the tests passed successfully.
 
+## Preview of the Results
+
+![image](https://github.com/user-attachments/assets/c662c92d-2f2d-4ddb-a6f9-07d2dbdac8f4)
+
+
 ## Credits
 
 This project is inspired by a blog post by **[Cofiali53](https://medium.com/@cofiali53/automation-api-testing-in-javascript-using-mocha-chai-and-supertest-a-beginners-guide-47e317e04501)**, who provided the foundation for understanding how to implement API testing in JavaScript using Mocha, Chai, and Supertest.
